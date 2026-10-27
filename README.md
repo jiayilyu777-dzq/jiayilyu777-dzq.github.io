@@ -27,6 +27,7 @@
 jiayilyu777-dzq.github.io/
 ├── index.html
 ├── research.html
+├── Jiayi_CV.pdf
 ├── style.css
 ├── favicon.svg
 ├── robots.txt
@@ -54,8 +55,8 @@ jiayilyu777-dzq.github.io/
 
 - 目前用 `JL` 字母作为头像，未虚构个人照片。
 - 如需使用照片，把照片命名为 `photo.jpg`，与 `index.html` 一起上传。在 `index.html` 中找到 `class="portrait monogram"` 的 div，按照其上方注释替换为 img 标签即可。
-- CV 目前是通过邮件索取的链接。本压缩包没有包含原始 CV PDF。
-- 若想提供下载，先确认你希望公开的 CV 内容，然后上传 `Jiayi_CV.pdf`。把主页中的 `mailto:jiayi.lyu@siu.edu?subject=CV%20request` 改成 `Jiayi_CV.pdf`，并把 `Available on request` 改为 `Download PDF`。
+- 已包含用户确认可公开的新版 `Jiayi_CV.pdf`，主页的 **Download PDF** 可直接打开简历。
+- 更新简历时，用同名 PDF 替换即可。公开版不含手机号及推荐人联系方式。
 
 ## 后续修改
 
